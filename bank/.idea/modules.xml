@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankATM/BankATM.iml" filepath="$PROJECT_DIR$/BankATM/BankATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankManager/BankManager.iml" filepath="$PROJECT_DIR$/BankManager/BankManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankServer/BankServer.iml" filepath="$PROJECT_DIR$/BankServer/BankServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/comp2project.iml" filepath="$PROJECT_DIR$/.idea/comp2project.iml" />
+    </modules>
+  </component>
+</project>
